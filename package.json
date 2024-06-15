@@ -2,8 +2,8 @@
   "name": "re",
   "version": "1.0.0",
   "description": "re",
-  "main": "claim.js",
-  "type": "module",
+  "main": "re.js",
+  "type": "CommonJS",
   "scripts": {
     "claim": "node re.js"
   },
