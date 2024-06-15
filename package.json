@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "re",
   "main": "re.js",
-  "type": "CommonJS",
+  "type": "application/json",
   "scripts": {
     "claim": "node re.js"
   },
