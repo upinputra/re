@@ -1,0 +1,25 @@
+{
+  "name": "re",
+  "version": "1.0.0",
+  "description": "re",
+  "main": "claim.js",
+  "type": "module",
+  "scripts": {
+    "claim": "node re.js"
+  },
+  "keywords": [
+    "re"
+  ],
+  "author": "upinputra",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/upinputra/re.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "near-api-js": "^3.0.3",
+    "bignumber.js": "^9.1.2",
+    "node-fetch": "^3.3.2",
+    "twisters": "^1.1.0"
+  }
+}
